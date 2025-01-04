@@ -27,7 +27,9 @@ The API provides the following endpoints:
 * Update a task: `PUT /tasks/:id`
 * Delete a task: `DELETE /tasks/:id`
 
-##
+## Install all the dependencies
+1. Open a terminal and navigate to the root directory of the project.
+2. Run `npm install` to install all the dependencies listed in `package.json`.
 
 
 ## Configuring .env file
